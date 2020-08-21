@@ -7,3 +7,4 @@ def move_zeros(array):
         else:
             buffer.append(char)
     return buffer + zeroes
+# https://www.codewars.com/kata/52597aa56021e91c93000cb0
